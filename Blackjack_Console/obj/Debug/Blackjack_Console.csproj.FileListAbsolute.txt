@@ -1,0 +1,7 @@
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\Peer Projects\Blackjack\Blackjack_Console\Blackjack_Console\bin\Debug\Blackjack_Console.exe.config
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\Peer Projects\Blackjack\Blackjack_Console\Blackjack_Console\bin\Debug\Blackjack_Console.exe
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\Peer Projects\Blackjack\Blackjack_Console\Blackjack_Console\bin\Debug\Blackjack_Console.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\Peer Projects\Blackjack\Blackjack_Console\Blackjack_Console\obj\Debug\Blackjack_Console.csprojAssemblyReference.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\Peer Projects\Blackjack\Blackjack_Console\Blackjack_Console\obj\Debug\Blackjack_Console.csproj.CoreCompileInputs.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\Peer Projects\Blackjack\Blackjack_Console\Blackjack_Console\obj\Debug\Blackjack_Console.exe
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\Peer Projects\Blackjack\Blackjack_Console\Blackjack_Console\obj\Debug\Blackjack_Console.pdb
